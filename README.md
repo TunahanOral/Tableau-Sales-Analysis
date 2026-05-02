@@ -18,4 +18,4 @@ Identified top-performing states and sub-categories contributing to the majority
 Analyzed customer reach through distinct order and customer counts.
 
 Contact
-Developed by Tunahan Oral - [[Your LinkedIn Profile Link](https://www.linkedin.com/in/tunahan-oral/)]
+Developed by Tunahan Oral - [LinkedIn](https://www.linkedin.com/in/tunahan-oral/)]
