@@ -1,7 +1,9 @@
 Interactive Retail Sales Performance Analysis
 [🚀 Live Dashboard Link](https://public.tableau.com/app/profile/tunahan.oral/viz/InteractiveRetailSalesPerformanceAnalysis/Dashboard1)
+
 Project Overview
 This project focuses on analyzing retail sales data to provide actionable insights for stakeholders. The dashboard enables users to monitor key metrics and explore regional performance through an interactive interface.
+
 
 Tools & Technologies
 Visualization: Tableau Desktop
